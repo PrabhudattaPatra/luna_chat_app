@@ -1,3 +1,2 @@
-streamlit
-agno
-textwrap
+streamlit>=1.30.0
+agno>=0.1.7
