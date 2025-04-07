@@ -1,2 +1,3 @@
-streamlit>=1.30.0
-agno>=0.1.7
+streamlit==1.44.1
+agno==1.2.10
+groq==0.22.0
